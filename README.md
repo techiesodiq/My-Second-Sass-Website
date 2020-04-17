@@ -1,2 +1,2 @@
 # My-Second-Sass-Website
-This page is built using SASS preprocessor
+This page was built using SASS preprocessor
